@@ -1,3 +1,4 @@
+package school.calendar;
 
 public class MounthExample {
 	private int numberOfDays;

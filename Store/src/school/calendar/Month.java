@@ -1,3 +1,4 @@
+package school.calendar;
 
 public enum Month {
 	JANUARY(31,1),FEBRUARY(28,2) ,MARCH(31,3),

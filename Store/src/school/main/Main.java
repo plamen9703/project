@@ -1,4 +1,7 @@
+package school.main;
 import java.util.Scanner;
+
+import school.calendar.Date;
 
 public class Main {
 
