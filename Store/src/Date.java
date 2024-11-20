@@ -4,7 +4,6 @@ public class Date {
 	private int year;
 	private Month month;
 	
-	private String test;
 	public Date() {
 		setYear(2000);
 		setMonth(1);
